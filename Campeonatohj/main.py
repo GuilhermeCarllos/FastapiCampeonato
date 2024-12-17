@@ -45,11 +45,11 @@ partidas = {
 
 # Dados dos jogadores
 jogadores = {
-    1: {"id": 1, "nome": "Renatin", "posicao": "Atacante", "time": "Barcelona", "gols": 10},
-    2: {"id": 2, "nome": "João Luiz", "posicao": "Atacante", "time": "Barcelona", "gols": 12},
+    1: {"id": 1, "nome": "Guilherme", "posicao": "Atacante", "time": "Barcelona", "gols": 10},
+    2: {"id": 2, "nome": "João ", "posicao": "Atacante", "time": "Barcelona", "gols": 12},
     3: {"id": 3, "nome": "Vini", "posicao": "Atacante", "time": "ADS", "gols": 7},
     4: {"id": 4, "nome": " Paiva", "posicao": "Meio-campo", "time": "ADS", "gols": 5},
-    5: {"id": 5, "nome": "Michel Jr.", "posicao": "Defensor", "time": "ADS", "gols": 2},
+    5: {"id": 5, "nome": "Michel ", "posicao": "Defensor", "time": "ADS", "gols": 2},
     6: {"id": 6, "nome": "Pedro ", "posicao": "Atacante", "time": "Flamengo", "gols": 8},
     7: {"id": 7, "nome": "Pablo", "posicao": "Atacante", "time": "Flamengo", "gols": 6},
     8: {"id": 8, "nome": "Gil", "posicao": "Meio-campo", "time": "Flamengo", "gols": 4},
